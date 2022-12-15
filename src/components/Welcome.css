@@ -1,0 +1,19 @@
+#welcome {
+    text-align: center;
+    max-width: 500px;
+}
+
+#welcome h2,
+#welcome p {
+    margin-bottom: 1rem;
+    color: aliceblue;
+    
+}
+
+#welcome p {
+    color: rgba(132, 53, 222, 1);
+}
+
+#welcome img {
+    margin-top: 2rem;
+}
